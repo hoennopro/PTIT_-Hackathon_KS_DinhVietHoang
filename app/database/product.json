@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "productName": "Cam",
+      "price": 12.000,
+      "image": "https://nld.mediacdn.vn/zoom/700_438/dxlNyscccccccccccc0LrfrNo7RxIh/Image/2013/09/cam_2cd0e.jpg",
+      "quantity": 12
+    },
+    {
+      "id": 2,
+      "productName": "Táo",
+      "price": 15.000,
+      "image": "https://benhvienk.vn/data/media/1601/images/16100958642348_tao-do-my-red-delicious-size-36-44.jpg",
+      "quantity": 20
+    },
+    {
+      "id": 3,
+      "productName": "Nho",
+      "price": 25.000,
+      "image": "https://bizweb.dktcdn.net/thumb/grande/100/390/808/products/nho-xanh-autumn-crisp-uc.jpg?v=1632330310953",
+      "quantity": 8
+    },
+    {
+      "id": 4,
+      "productName": "Chuối",
+      "price": 10.000,
+      "image": "https://suckhoedoisong.qltns.mediacdn.vn/324455921873985536/2021/10/14/chuoi1-16341869574602070184903.jpg",
+      "quantity": 30
+    }
+    
+  ]
+  
